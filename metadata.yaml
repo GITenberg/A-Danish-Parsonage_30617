@@ -1,0 +1,26 @@
+_repo: A-Danish-Parsonage_30617
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Vicary, John Fulford
+    birthdate: 1832
+    deathdate: 1887
+    gutenberg_agent_id: '34712'
+    url: http://www.gutenberg.org/2009/agents/34712
+description: ''
+gutenberg_issued: '2009-12-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30617'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PR'
+title: A Danish Parsonage
+url: http://www.gutenberg.org/ebooks/30617
